@@ -2,7 +2,7 @@
 
 Metronomo es un proyecto desarrollada con el Framewok Svelte y generado con [Svelte](https://svelte.dev)2. Este proyecto se usa para el aprendizaje y muestra de capacidades. Siéntase libre de clonar este proyecto.
 
-<img src="/public/img/metronomo.png" alt="Metrónomo"/>
+<img src="/public/img/Metronomo.png" alt="Metrónomo"/>
 
 *Tenga en cuenta que tiene que tener [Node.js](https://nodejs.org) instalado.*
 
