@@ -39,8 +39,8 @@
      */
 
     // Tiempo. [Uso de Pro Tip condicional para minimizar el código. No hace falta el else ":" pero me da error si no lo añado]
-    const aumentarTiempo = (bpm) => (bpm <=279) ? bpm++ : bpm;
-    const disminuirTiempo = (bpm) => (bpm >=21) ? bpm-- : bpm;
+    const aumentarTiempo = () => (bpm <=279) ? bpm++ : bpm;
+    const disminuirTiempo = () => (bpm >=21) ? bpm-- : bpm;
 
     // Medida. [Uso de condicional estandar]
     const aumentarMedida = ()=>{
@@ -194,7 +194,7 @@
     .metronomo h1{
         background-color: #4aa05d;
         color: #fff;
-        font-size: 80px;
+        font-size: 8vw;
         margin: 0;
         padding: 50px 10px;
     }
@@ -302,4 +302,9 @@
         color: #4aa05d;
     }
 
+    @media only screen and (max-width: 700px) {
+        .metronomo .tiempo{
+            padding: 50px 10px;
+        }
+    }
 </style>
