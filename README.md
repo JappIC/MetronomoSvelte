@@ -1,6 +1,6 @@
 # Metrónomo app
 
-Metronomo es un proyecto desarrollada con el Framewok Svelte y generado con [Svelte](https://svelte.dev)2. Este proyecto se usa para el aprendizaje y muestra de capacidades. Siéntase libre de clonar este proyecto.
+Metronomo es un proyecto desarrollada con el Framewok [Svelte](https://svelte.dev). Este proyecto se usa para el aprendizaje y muestra de capacidades. Siéntase libre de clonar este proyecto.
 
 <img src="/public/img/Metronomo.png" alt="Metrónomo"/>
 
